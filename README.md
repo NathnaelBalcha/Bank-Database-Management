@@ -4,11 +4,7 @@ This repository contains SQL code to set up a database called Bank for managing 
 Database Schema
 
 account: Stores information about bank accounts.
-
 branch: Contains details about bank branches.
-
 customer: Holds data related to bank customers.
-
 employee: Stores information about bank employees.
-
 transaction: Stores transaction records.
